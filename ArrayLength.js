@@ -1,3 +1,1 @@
-const obj = ["apple", "mango", "grapes", "orange"]
-console.log(obj.length);
-//output: 4
+const obj=["apple","mango","grapes"]
